@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Bourhan Hossan</h1>
+<h1 align="center">Hi 👋, I'm Md. Bourhan Hossain</h1>
 <h3 align="center">"🎓 Statistics Undergraduate | 📊 Data Science & Machine Learning Enthusiast | 🐍 Python & R Programmer | 📈 Data Visualization (Power BI & Excel) | 📂 Research & Data Analysis | 💡 Problem Solver | 📚 Lifelong Learner"</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
