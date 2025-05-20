@@ -1,18 +1,82 @@
-<h1 align="center">Hi 👋, I'm Md. Bourhan Hossain</h1>
-<h3 align="center">"🎓 Statistics Undergraduate | 📊 Data Science & Machine Learning Enthusiast | 🐍 Python & R Programmer | 📈 Data Visualization (Power BI & Excel) | 📂 Research & Data Analysis | 💡 Problem Solver | 📚 Lifelong Learner"</h3>
+<h1 align="center">Hi, I'm Md. Bourhan Hossan!</h1>
+<h3 align="center">A passionate Data Enthusiast from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **bourhan211634@gmail.com**
-
-- ⚡ Fun fact **I find beauty in both numbers and stories-data lets me explore both.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bourhanhossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bourhanhossan" height="30" width="40" /></a>
-<a href="https://fb.com/mdbourhan.hossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdbourhan.hossan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPSS-0033A0?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
+## 🧑‍🎓 About Me
+
+- A passionate data enthusiast always eager to learn and analyze.
+- Studying at Pabna University of Science and Technology, Department of Statistics.
+- Skilled in Python, R, Power BI, SQL, Excel, SPSS.
+- Interested in transforming data into actionable insights.
+
+---
+
+## 📫 Connect with me
+
+<!-- Add your links here -->
+<!-- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](your-link)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](your-link)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](your-link)
+-->
+
+---
+
+## ⚒️ Languages & Tools
+
+| Category          | Technologies                         |
+|------------------|--------------------------------------|
+| Language          | Python, R                           |
+| Data Viz          | Power BI, Excel                     |
+| Data Handling     | SPSS, Excel                         |
+| Database          | SQL                                 |
+| Tools & Platforms | GitHub, VS Code                     |
+
+---
+
+## 📂 Projects
+
+<!-- 
+1. Project Title - Short description.
+2. Project Title - Short description.
+3. Project Title - Short description.
+-->
+
+---
+
+## 🏅 Certificates
+
+<!-- 
+- Course Name - Platform
+- Course Name - Platform
+-->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bourhan2&show_icons=true&theme=dark" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=bourhan2&theme=dark" />
+</p>
+
+---
+
+## 🧮 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/bourhan2/count.svg)
+
+---
+
+*Thank you for visiting my profile! Feel free to connect with me and collaborate.*
