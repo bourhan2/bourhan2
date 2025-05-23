@@ -73,11 +73,7 @@
 
 ## 🧮 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/bourhan2/count.svg)
-
----
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=bourhan2&label=VISITORS&countColor=%23263759)
+![Visitors](https://shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/github.com/bourhan2/visits&style=for-the-badge)
 
 ---
 
