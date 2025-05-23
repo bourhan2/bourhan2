@@ -73,7 +73,7 @@
 
 ## 👁️ Visitor Count
 
-![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbourhan2&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Visitor Count](https://profile-counter.glitch.me/bourhan2/count.svg)
 ---
 
 *Thank you for visiting my profile! Feel free to connect with me and collaborate.*
