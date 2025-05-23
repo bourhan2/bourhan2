@@ -34,13 +34,13 @@
 
 ## ⚒️ Languages & Tools
 
-| Category          | Technologies                         |
-|------------------|--------------------------------------|
-| Language          | Python, R                           |
-| Data Viz          | Power BI, Excel                     |
-| Data Handling     | SPSS, Excel                         |
-| Database          | SQL                                 |
-| Tools & Platforms | GitHub, VS Code                     |
+|   Category           |  Technologies                         |
+|----------------------|-----------------------------------|
+|  Language            |  Python, R                           |
+|  Data Visualization  |  Power BI, Excel                     |
+|  Data Handling       |  SPSS, Excel                         |
+|  Database            |  SQL                                 |
+|  Tools & Platforms   |  GitHub, VS Code                     |
 
 ---
 
