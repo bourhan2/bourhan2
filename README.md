@@ -23,9 +23,9 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mdbourhan.hossan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/yourusername)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/your-number)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bourhanhossan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/mdbourhan.hossan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/01740043234)
 
 ---
 
