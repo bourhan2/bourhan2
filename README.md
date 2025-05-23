@@ -26,6 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bourhanhossan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/mdbourhan.hossan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/8801740043234)
+[![X](https://img.shields.io/badge/X-000000?logo=twitter&style=for-the-badge)](https://twitter.com/md_bourhan1)
 
 ---
 
