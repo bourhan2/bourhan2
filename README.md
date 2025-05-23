@@ -73,7 +73,7 @@
 
 ## 🧮 Visitor Count
 
-![Visitors](https://shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/github.com/bourhan2/visits&style=for-the-badge)
+![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbourhan2&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 ---
 
