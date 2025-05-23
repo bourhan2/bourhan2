@@ -23,12 +23,9 @@
 
 ## 📫 Connect with me
 
-<!-- Add your links here -->
-<!-- 
-[LinkedIn](https://www.linkedin.com/in/bourhanhossan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](your-link)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](your-link)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mdbourhan.hossan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/yourusername)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/your-number)
 
 ---
 
