@@ -33,7 +33,7 @@
 ## ⚒️ Languages & Tools
 
 |  Category            |  Technologies                         |
-|----------------------|-----------------------------------|
+|----------------------|--------------------------|
 |  Language            |  Python, R                           |
 |  Data Visualization  |  Power BI, Excel                     |
 |  Data Handling       |  SPSS, Excel                         |
