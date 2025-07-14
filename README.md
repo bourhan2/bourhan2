@@ -7,20 +7,8 @@
 />
 </p>
 
-
-
-
 <h1 align="center">Hi, I'm Md. Bourhan Hossan!</h1>
 <h3 align="center">A passionate Data Enthusiast from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPSS-0033A0?style=for-the-badge" />
-</p>
 
 ---
 
@@ -69,6 +57,11 @@
     <td align="center">
       <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.r-project.org/Rlogo.png" alt="R" width="48"/><br>R
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
+       <img src="https://img.shields.io/badge/SPSS-0033A0?style=for-the-badge" /><br>SPSS
       </a>
     </td>
   </tr>
