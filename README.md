@@ -1,3 +1,10 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C47E&width=700&lines=Hi+there%2C+I+am+Md.+Bourhan+Hossan!;Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Data+Analysis+%7C+Statistics+%7C+Machine+Learning;Data+Science;Let%E2%80%99s+connect+%26+collaborate+%F0%9F%A4%9D;Thanks+for+visiting+my+profile+%F0%9F%99%8F" alt="Typing SVG" />
+</p>
+
+
+
 <h1 align="center">Hi, I'm Md. Bourhan Hossan!</h1>
 <h3 align="center">A passionate Data Enthusiast from Bangladesh</h3>
 
@@ -35,32 +42,27 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.python.org" target="_blank">
+      <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/><br>Python
       </a>
     </td>
     <td align="center">
-      <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"/><br>Excel
+      <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel"/><br>Excel
       </a>
     </td>
     <td align="center">
-      <a href="https://powerbi.microsoft.com/" target="_blank">
+      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/><br>Power BI
       </a>
     </td>
     <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="SQL"/><br>SQL
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/><br>SQL
       </a>
     </td>
     <td align="center">
-      <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/SPSS_logo.svg" alt="SPSS" width="60"/><br>SPSS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.r-project.org/" target="_blank">
+      <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.r-project.org/Rlogo.png" alt="R" width="48"/><br>R
       </a>
     </td>
