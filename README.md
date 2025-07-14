@@ -70,6 +70,16 @@
 </table>
 
 ---
+## 🧰 Toolbox
+
+| Category             | Technologies                                                                 |
+|----------------------|-------------------------------------------------------------------------------|
+| Language         | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
+| Data Visualization | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C8CBF?logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) |
+| Data Handling    | ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
+| Database         | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
+| Tools and Platforms | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white) |
+---
 
 ## 📂 Projects
 
