@@ -110,7 +110,8 @@
 
 ## 👁️ Visitor Count
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/bourhan2/github-visits&style=for-the-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=bourhan2&label=Profile%20Views&countColor=%23ff8c00&style=for-the-badge)
+
 
 ---
 
