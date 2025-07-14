@@ -110,7 +110,8 @@
 
 ## 👁️ Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/bourhan2/count.svg)
+![Visitor Count](https://shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/bourhan2/github-visits&style=for-the-badge)
+
 ---
 
 *Thank you for visiting my profile! Feel free to connect with me and collaborate.*
